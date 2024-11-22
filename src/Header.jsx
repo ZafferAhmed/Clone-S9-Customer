@@ -231,8 +231,12 @@ const Header = () => {
         </div>
       </div>
       <div className="w-screen h-full">
-        <img
+        {/* <img
           src="https://waifu2x.booru.pics/outfiles/2529b9e8327fba043b1de7cad171683de71eafda_s2_n2_y1.png"
+          className="w-full h-full object-cover"
+        /> */}
+        <img
+          src="https://waifu2x.booru.pics/outfiles/33012bfe7549f578f81ab4f7f29816cce5b609ae_s2_n2_y1.jpg"
           className="w-full h-full object-cover"
         />
       </div>
